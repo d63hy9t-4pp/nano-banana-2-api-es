@@ -108,6 +108,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-476c62) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [nano-banana-2-prompts-es](https://github.com/d63hy9t-4pp/nano-banana-2-prompts-es)
+- **Same model, other languages** — 9 more language builds: 中文 [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · Deutsch [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · Français [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · Relay/gateway [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · Bahasa [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · 日本語 [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · 한국어 [nano-banana-2-api-ko](https://github.com/jjb18r/nano-banana-2-api-ko) · Português [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · Русский [nano-banana-2-api-ru](https://github.com/jnp3hlry/nano-banana-2-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es) · [nano-banana-pro-api-es](https://github.com/g6-erqods5/nano-banana-pro-api-es)
+- **Topic hubs** — every build of this model, all languages: [nano-banana-2](https://github.com/topics/nano-banana-2) · [nano-banana-2-api](https://github.com/topics/nano-banana-2-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
